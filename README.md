@@ -34,6 +34,17 @@
 - Transcripts, RAG, OpenAI, [typeagent](https://www.piwheels.org/project/typeagent/)
 - Example: Albatross [Sea bird](https://en.wikipedia.org/wiki/Albatross)
 
+#### Maggie Moss | [Meta](https://www.linkedin.com/in/maggie-moss/) 3:30PM / 16:30 SPEAKER
+- **Increasing Types in Large Codebases with Pyrefly and AI Tooling** Meta has some of the largest typed Python codebases in the world. That’s why we built Pyre and now Pyrefly. Despite this, Meta has lots of untyped code and we have been building tooling to help add types at scale.
+- Rails Developer, Faster inner loop, Spot typos, better documentation, write code faster (auto-completion)
+- Brief History of META Type Checkers; PHP -> Hack, Javascript -> Flow, Python -> [Pyre](https://pyre-check.org/). OCaml was considered.
+- [PyCon](https://pycon.org/) lauch, [PYREFLY](https://pyrefly.org/) incredible performance. Type checker is incredibly easy to install, implement and use. Configuration, Silence Errors (pyrefly check --supress-errors, --ignore, --summarize), automatically infers annotations to the code, pairs with open source tools.
+- [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)-PYREFLY; the [Lollipop](https://pypi.org/project/lollipop/) System
+
+#### Pamela Fox | [Microsoft](https://www.linkedin.com/in/pamela-s-fox/)
+- **Just because AI can write your tests... should it?** I'm a big fan of AI-assisted coding tools—they’re making programming more accessible than ever! But as developers, we risk using LLMs to write everything, including our tests, and forgetting the powerful tools in our Python testing toolbox.
+- 
+
 #### Name | [Company](link)
 - Generation information from the speaker here
 
