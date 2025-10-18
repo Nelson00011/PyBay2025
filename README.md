@@ -27,6 +27,13 @@
 - **Do It Yourself: Demystifying the Magic of Dataclasses** Python's built-in `dataclasses` module provides an enormous amount of leverage when defining classes: minimal code can enable maximal capabilities.
 - DataClass AWARENESS boilerplate uses for `_init_` (caution for typos), key-only arguments, attribute with a referential default value, string conversion (default behavior), tuple conversion
 
+#### Guido van Rossum | [Microsoft](https://www.linkedin.com/in/guido-van-rossum-4a0756/) 12:30PM / 12:30 SPEAKER
+- **Structured RAG is better than RAG!** This is an improvement over the popular AI tactic named RAG (look it up) that can answer questions over large collections of text or images better and faster than RAG.
+- Extracts Knowledge: entities (people, places, etc..), actions, topics, relationships, etc... Structure RAG - Query Pipeline.
+- Scalable to much larger conservation histories: indexing approach needs less compute and data. Bulk ingestion is slower, due to use of an LLM instead of just embeddings.
+- Transcripts, RAG, OpenAI, [typeagent](https://www.piwheels.org/project/typeagent/)
+- Example: Albatross [Sea bird](https://en.wikipedia.org/wiki/Albatross)
+
 #### Name | [Company](link)
 - Generation information from the speaker here
 
