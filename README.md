@@ -11,17 +11,25 @@
 - Medium Projects: Pemodouroboros, DateType, Publication, Automat, Hyperlink...
 - Big Project: Twisted, Twisted Org Projects...Baseline Project.
 
-#### Name | [Company](link) 11:00AM SPEAKER
-- Generation information from the speaker here
+#### Alla Barbalat | [Company](https://www.linkedin.com/in/allabarbalat/) 11:00AM SPEAKER
+- **AI, IP, and Your Code: What Developers Need to Know** Interlectual Property (IP) Law, Copyright law implication of AI-generated code. 
+- IP has various terms of expiration before becoming public domain: Trademark, Patent, Copyright
+- Software Code Licensing: Proprietary, Public Domain, Copyleft, Permissive Open Source. MIT or APACHE license is free and open use of code.
+- Market from LLM, COPY right cases for developers different than chemical, biological, or physical patenting.
+- Check AI-Generated Code, licensing issues, public code, code evaluation tools for CI/CD.
+
+#### Daniel Hulse | [Company](link)
+- **Architecting Real-World Complex Systems in Python** <INSERT INFO HERE> 
 
 #### Name | [Company](link)
 - Generation information from the speaker here
 
 
 ## Resources:
-- Blackbird.AI is focusing on Kursk Incursion (2024):
-    - **Compass Context** to verify and contextualize the information you see [online](https://blackbird.ai/compass-context/)
-
+- Speaker Link List with the Daily [Agenda](https://pybay.org/speaking/talk-list-2025/)
+- [Woman Who Code](https://womenwhocode.com/) are an additional community
+- [Instalily](https://instalily.ai/) is the first platform for hiring vertical AI Teammates, called InstaWorkers™:
+    - InstaWorkers™ help human teams achieve superhuman outcomes at scale: increased revenue, reduced costs, and improved service.
 
 ## Contact:
 <!--- You can add in your linkedin, medium, stack overflow, dev.to account, etc. here --->
