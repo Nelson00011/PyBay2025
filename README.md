@@ -18,8 +18,14 @@
 - Market from LLM, COPY right cases for developers different than chemical, biological, or physical patenting.
 - Check AI-Generated Code, licensing issues, public code, code evaluation tools for CI/CD.
 
-#### Daniel Hulse | [Company](link)
-- **Architecting Real-World Complex Systems in Python** <INSERT INFO HERE> 
+#### Daniel Hulse | [NASA Ames Research Center](https://www.linkedin.com/in/hulsedaniel/) 11:30AM SPEAKER
+- **Architecting Real-World Complex Systems in Python** multidisciplinary physical and cyber-physical interactions (5th [Domain](https://www.cfr.org/book/fifth-domain)) design, integrate, and manage complex systems in various life cycles phases that last for generations compatible with an evolving system over various generations. 
+- Simply understanding--let alone designing--complex systems can be tricky. Traditionally, systems engineering approaches have relied on clunky, proprietary, opaque tools to model, analyze, and design system structure and behavior.
+- **Model-base Systems Engineering** and **Digitial Twin / Threads**; proprietary software, new information silo, python for engineering analysis. 
+
+#### Brett Slatkin | [Google](https://www.linkedin.com/in/bslatkin/) 11:45AM SPEAKER
+- **Do It Yourself: Demystifying the Magic of Dataclasses** Python's built-in `dataclasses` module provides an enormous amount of leverage when defining classes: minimal code can enable maximal capabilities.
+- DataClass AWARENESS boilerplate uses for `_init_` (caution for typos), key-only arguments, attribute with a referential default value, string conversion (default behavior), tuple conversion
 
 #### Name | [Company](link)
 - Generation information from the speaker here
@@ -27,9 +33,9 @@
 
 ## Resources:
 - Speaker Link List with the Daily [Agenda](https://pybay.org/speaking/talk-list-2025/)
-- [Woman Who Code](https://womenwhocode.com/) are an additional community
-- [Instalily](https://instalily.ai/) is the first platform for hiring vertical AI Teammates, called InstaWorkers™:
-    - InstaWorkers™ help human teams achieve superhuman outcomes at scale: increased revenue, reduced costs, and improved service.
+- [Woman Who Code](https://womenwhocode.com/) are an additional community members
+- [Instalily](https://instalily.ai/) is the first platform for hiring vertical AI Teammates, called **InstaWorkers™**:
+    - **InstaWorkers™** help human teams achieve superhuman outcomes at scale: increased revenue, reduced costs, and improved service.
 
 ## Contact:
 <!--- You can add in your linkedin, medium, stack overflow, dev.to account, etc. here --->
