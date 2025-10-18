@@ -1,12 +1,17 @@
 <h1 align="center">Notes</h1>
 
-<p align="center"><a href="IMAGE"><img src="IMAGE"></img></a></p>
+<p align="center"><a href="https://pybay.org/"><img src="IMAGE"></img></a></p>
 
 ## Description:
-**Name of Event** with Description of the event and link. 
+**[PyBay](https://pybay.org/)** is an annual conference gathering of Pythonistas put on by the [Bay Area Python Association](https://www.bapya.org/). We’re excited to announce that we will be returning in October 2025, to the UCSF Mission Bay Conference Center in San Francisco, CA. This event is 100% community organized. [Python Software Foundation](https://www.python.org/psf-landing/) is to promote, protect and advance the [Python](https://www.python.org/) programming language, and to support and faciliate the growth of a diverse and international community of Python Programmers. [PyLadies](https://pyladies.com/) international mentorship group with a focus on helping more women become active participants and leaders in the Python open-source community. 
 
 ## Notes:
-#### Name | [Company](link)
+#### Glyph Lefkowitz | [Glyph](https://www.linkedin.com/in/glyph/) 10:30AM SPEAKER
+- **Scaling Open Source UP and Down:** Software isn't finished until the last user is dead. PINPal,
+- Medium Projects: Pemodouroboros, DateType, Publication, Automat, Hyperlink...
+- Big Project: Twisted, Twisted Org Projects...Baseline Project.
+
+#### Name | [Company](link) 11:00AM SPEAKER
 - Generation information from the speaker here
 
 #### Name | [Company](link)
