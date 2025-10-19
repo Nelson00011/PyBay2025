@@ -45,8 +45,13 @@
 - **Just because AI can write your tests... should it?** I'm a big fan of AI-assisted coding tools—they’re making programming more accessible than ever! But as developers, we risk using LLMs to write everything, including our tests, and forgetting the powerful tools in our Python testing toolbox.
 - Native California Plant gardener, AI writes developer tests, Honey Bee #WooHon #Xpresso
 
-#### Name | [Company](link)
-- Generation information from the speaker here
+#### Nikita Rokotyan | [Exaforce](https://www.linkedin.com/in/rokotyan/) 6:00PM / 18:00 SPEAKER
+- **Visualizing large graphs and AI embeddings with ease** Cosmograph, a high-performance web framework for creating interactive graph visualizations, is now accessible to Python engineers directly from their notebooks!
+- [CosmoApp](https://cosmograph.app/) Engage with your data, Right in the browser on your laptop.
+- A web-based application that helps you analyze large graph datasets or machine learning embeddings. It runs purely in the browser and doesn't send your data anywhere. All calculations will be done right on your GPU, the faster it is the better.
+
+#### Chris Brousseau | [Surface Owl](https://www.linkedin.com/in/chrisbrousseau/)  6:30PM / 18:30 SPEAKER
+- **Closing Remarks** Join us to wrap up the PyBay 2025 Conference, hear about the day and important messages from a few guest speakers.
 
 
 ## Resources:
