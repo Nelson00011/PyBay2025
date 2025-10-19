@@ -41,9 +41,9 @@
 - [PyCon](https://pycon.org/) lauch, [PYREFLY](https://pyrefly.org/) incredible performance. Type checker is incredibly easy to install, implement and use. Configuration, Silence Errors (pyrefly check --supress-errors, --ignore, --summarize), automatically infers annotations to the code, pairs with open source tools.
 - [MCP](https://modelcontextprotocol.io/docs/getting-started/intro)-PYREFLY; the [Lollipop](https://pypi.org/project/lollipop/) System
 
-#### Pamela Fox | [Microsoft](https://www.linkedin.com/in/pamela-s-fox/)
+#### Pamela Fox | [Microsoft](https://www.linkedin.com/in/pamela-s-fox/) 4:15PM / 16:30 SPEAKER
 - **Just because AI can write your tests... should it?** I'm a big fan of AI-assisted coding tools—they’re making programming more accessible than ever! But as developers, we risk using LLMs to write everything, including our tests, and forgetting the powerful tools in our Python testing toolbox.
-- 
+- Native California Plant gardener, AI writes developer tests, Honey Bee #WooHon #Xpresso
 
 #### Name | [Company](link)
 - Generation information from the speaker here
